@@ -1,6 +1,8 @@
 # Symptom-Survey
 A python script for automatically filling out BU's Covid-19 symptom survey.
 
+**YOU SHOULD STILL CONDUCT A DAILY ASSESSMENT OF YOUR SYMPTOMS AND NOTE ANY CHANGES. DON'T BE STUPID. STAY SAFE.**
+
 https://youtu.be/4UoCD7JRSNE
 
 
