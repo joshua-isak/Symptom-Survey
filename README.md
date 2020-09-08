@@ -1,6 +1,8 @@
 # Symptom-Survey
 A python script for automatically filling out BU's Covid-19 symptom survey.
 
+https://youtu.be/4UoCD7JRSNE
+
 
 
 ## Usage
