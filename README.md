@@ -1,7 +1,7 @@
 # Symptom-Survey
 A python script for automatically filling out BU's Covid-19 symptom survey.
 
-![Screenshot](meme.png)
+
 
 ## Usage
 Install selenium with pip as well as the Firefox web driver (change the code to fit another web driver if you would like).
